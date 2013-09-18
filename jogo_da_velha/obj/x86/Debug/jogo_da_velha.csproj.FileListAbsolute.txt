@@ -1,0 +1,16 @@
+C:\Users\Bruna Caroline\Documents\jogo_da_velha\jogo_da_velha\obj\x86\Debug\jogo_da_velha.Form1.resources
+C:\Users\Bruna Caroline\Documents\jogo_da_velha\jogo_da_velha\obj\x86\Debug\jogo_da_velha.Properties.Resources.resources
+C:\Users\Bruna Caroline\Documents\jogo_da_velha\jogo_da_velha\obj\x86\Debug\jogo_da_velha.csproj.GenerateResource.Cache
+C:\Users\Bruna Caroline\Documents\jogo_da_velha\jogo_da_velha\bin\Debug\jogo_da_velha.exe
+C:\Users\Bruna Caroline\Documents\jogo_da_velha\jogo_da_velha\bin\Debug\jogo_da_velha.pdb
+C:\Users\Bruna Caroline\Documents\jogo_da_velha\jogo_da_velha\obj\x86\Debug\jogo_da_velha.exe
+C:\Users\Bruna Caroline\Documents\jogo_da_velha\jogo_da_velha\obj\x86\Debug\jogo_da_velha.pdb
+E:\jogo_da_velha\jogo_da_velha\obj\x86\Debug\jogo_da_velha.exe
+E:\jogo_da_velha\jogo_da_velha\obj\x86\Debug\jogo_da_velha.pdb
+E:\jogo_da_velha\jogo_da_velha\bin\Debug\jogo_da_velha.exe
+E:\jogo_da_velha\jogo_da_velha\bin\Debug\jogo_da_velha.pdb
+E:\jogo_da_velha\jogo_da_velha\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\jogo_da_velha\jogo_da_velha\obj\x86\Debug\jogo_da_velha.Form1.resources
+E:\jogo_da_velha\jogo_da_velha\obj\x86\Debug\jogo_da_velha.Properties.Resources.resources
+E:\jogo_da_velha\jogo_da_velha\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\jogo_da_velha\jogo_da_velha\obj\x86\Debug\GenerateResource.write.1.tlog
